@@ -1,2 +1,8 @@
-
+.color-1{
+	border-left:8px solid rgb(0, 128, 0);
+	height:30px;
+	margin-top:20px;
+	padding:15px;
+	max-width:500px;
+}
 /* Your CSS Code here. */
